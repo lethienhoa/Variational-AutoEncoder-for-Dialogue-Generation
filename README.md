@@ -89,6 +89,26 @@ Obviously we see that VHRED output more diversified responses than the LSTM base
 
 THEANO_FLAGS=mode=FAST_RUN,device=gpu,nvcc.flags=-D_FORCE_INLINES,floatX=float32 python train.py --prototype prototype_ubuntu_VHRED > Model_Output.txt
 
+    2017-07-18 17:13:06,743: model: DEBUG: idim: 20000
+    2017-07-18 17:13:06,743: model: DEBUG: Initializing Theano variables
+    2017-07-18 17:13:06,776: model: DEBUG: Decoder bias type all
+    2017-07-18 17:13:07,921: model: DEBUG: Initializing utterance encoder
+    2017-07-18 17:13:08,770: model: DEBUG: Build utterance encoder
+    2017-07-18 17:13:08,882: model: DEBUG: Initializing dialog encoder
+    2017-07-18 17:13:10,664: model: DEBUG: Build dialog encoder
+    2017-07-18 17:13:10,732: model: DEBUG: Initializing prior encoder for utterance-level latent variable
+    2017-07-18 17:13:10,776: model: DEBUG: Build prior encoder for utterance-level latent variable
+    2017-07-18 17:13:10,895: model: DEBUG: Initializing approximate posterior encoder for utterance-level latent variable
+    2017-07-18 17:13:10,976: model: DEBUG: Build approximate posterior encoder for utterance-level latent variable
+    2017-07-18 17:13:11,046: model: DEBUG: Build KL divergence cost
+    2017-07-18 17:13:11,050: model: DEBUG: Initializing decoder
+    2017-07-18 17:13:13,251: model: DEBUG: Build decoder (NCE)
+    2017-07-18 17:13:13,498: model: DEBUG: Build decoder (EVAL)
+    2017-07-18 17:13:16,151: model: DEBUG: Will train all word embeddings
+    2017-07-18 17:13:16,821: __main__: DEBUG: Compile trainer
+    2017-07-18 17:13:16,821: __main__: DEBUG: Training using variational lower bound on log-likelihood
+    2017-07-18 17:13:16,821: model: DEBUG: Building train function
+
 
 ## Reference Articles
 
