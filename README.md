@@ -15,11 +15,19 @@ The task investigated by Serban et al. (2016a) and Serban et al. (2016b) is dial
 The context and response pairs are provided (see "ResponseContextPairs" subdirectories).
 The model responses by Serban et al. (2016a) and Serban et al. (2016b) are also provided (see "ModelPredictions" subdirectories).
 
-Any ideas on how lts will be released ? __eou__ __eot__ already is __eou__ __eot__
-how much hdd use ubuntu default install ? __eou__ __eot__ https://help.ubuntu.com/community/Installation/SystemRequirements __eou__ it wont require 15gb to be honest ... __eou__ __eot__
-in my country its nearly the 27th __eou__ when will 12.10 be out ? __eou__ __eot__ planned Oct 18th according to this . https://wiki.ubuntu.com/QuantalQuetzal/ReleaseSchedule?action=show&redirect=QReleaseSchedul __eou__ __eot__
-it 's not out __eou__ __eot__ they probabaly are waiting for all the mirrors to sync . the release annocement will be after that . __eou__ __eot__
-are the ext4 drivers stable ? __eou__ __eot__ I am not sure but the last time I checked , it wasn't __eou__ There have been numerous reports of data loss or corruption __eou__ __eot__
+    *Context Examples:*
+    1. Any ideas on how lts will be released ? __eou__ __eot__ already is __eou__ __eot__
+    2. how much hdd use ubuntu default install ? __eou__ __eot__ https://help.ubuntu.com/community/Installation/SystemRequirements __eou__ it wont require 15gb to be honest ... __eou__ __eot__
+    3. in my country its nearly the 27th __eou__ when will 12.10 be out ? __eou__ __eot__ planned Oct 18th according to this . https://wiki.ubuntu.com/QuantalQuetzal/ReleaseSchedule?action=show&redirect=QReleaseSchedul __eou__ __eot__
+    4. it 's not out __eou__ __eot__ they probabaly are waiting for all the mirrors to sync . the release annocement will be after that . __eou__ __eot__
+    5. are the ext4 drivers stable ? __eou__ __eot__ I am not sure but the last time I checked , it wasn't __eou__ There have been numerous reports of data loss or corruption __eou__ __eot__
+    
+    *Respective responses examples:*
+    1. We are talking 12.04 not 10.04 __eou__
+    2. thats why i ask how much is default install ? :) __eou__
+    3. thanx __eou__
+    4. waiting for many things to be setup __eou__ final warning - you don't know when it will be released , so don't suggest it will be any moment __eou__
+    5. you sound like it 's updating to skynet . ;) __eou__
     
 ## Reference Articles
 
