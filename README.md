@@ -89,26 +89,56 @@ Obviously we see that VHRED output more diversified responses than the LSTM base
 
 THEANO_FLAGS=mode=FAST_RUN,device=gpu,nvcc.flags=-D_FORCE_INLINES,floatX=float32 python train.py --prototype prototype_ubuntu_VHRED > Model_Output.txt
 
-    2017-07-18 17:13:06,743: model: DEBUG: idim: 20000
-    2017-07-18 17:13:06,743: model: DEBUG: Initializing Theano variables
-    2017-07-18 17:13:06,776: model: DEBUG: Decoder bias type all
-    2017-07-18 17:13:07,921: model: DEBUG: Initializing utterance encoder
-    2017-07-18 17:13:08,770: model: DEBUG: Build utterance encoder
-    2017-07-18 17:13:08,882: model: DEBUG: Initializing dialog encoder
-    2017-07-18 17:13:10,664: model: DEBUG: Build dialog encoder
-    2017-07-18 17:13:10,732: model: DEBUG: Initializing prior encoder for utterance-level latent variable
-    2017-07-18 17:13:10,776: model: DEBUG: Build prior encoder for utterance-level latent variable
-    2017-07-18 17:13:10,895: model: DEBUG: Initializing approximate posterior encoder for utterance-level latent variable
-    2017-07-18 17:13:10,976: model: DEBUG: Build approximate posterior encoder for utterance-level latent variable
-    2017-07-18 17:13:11,046: model: DEBUG: Build KL divergence cost
-    2017-07-18 17:13:11,050: model: DEBUG: Initializing decoder
-    2017-07-18 17:13:13,251: model: DEBUG: Build decoder (NCE)
-    2017-07-18 17:13:13,498: model: DEBUG: Build decoder (EVAL)
-    2017-07-18 17:13:16,151: model: DEBUG: Will train all word embeddings
-    2017-07-18 17:13:16,821: __main__: DEBUG: Compile trainer
-    2017-07-18 17:13:16,821: __main__: DEBUG: Training using variational lower bound on log-likelihood
-    2017-07-18 17:13:16,821: model: DEBUG: Building train function
-
+    2017-07-18 17:38:29,593: model: DEBUG: idim: 20000
+    2017-07-18 17:38:29,594: model: DEBUG: Initializing Theano variables
+    2017-07-18 17:38:29,604: model: DEBUG: Decoder bias type all
+    2017-07-18 17:38:30,727: model: DEBUG: Initializing utterance encoder
+    2017-07-18 17:38:31,209: model: DEBUG: Build utterance encoder
+    2017-07-18 17:38:31,289: model: DEBUG: Initializing dialog encoder
+    2017-07-18 17:38:33,206: model: DEBUG: Build dialog encoder
+    2017-07-18 17:38:33,279: model: DEBUG: Initializing prior encoder for utterance-level latent variable
+    2017-07-18 17:38:33,331: model: DEBUG: Build prior encoder for utterance-level latent variable
+    2017-07-18 17:38:33,401: model: DEBUG: Initializing approximate posterior encoder for utterance-level latent variable
+    2017-07-18 17:38:33,490: model: DEBUG: Build approximate posterior encoder for utterance-level latent variable
+    2017-07-18 17:38:33,561: model: DEBUG: Build KL divergence cost
+    2017-07-18 17:38:33,566: model: DEBUG: Initializing decoder
+    2017-07-18 17:38:35,985: model: DEBUG: Build decoder (NCE)
+    2017-07-18 17:38:36,242: model: DEBUG: Build decoder (EVAL)
+    2017-07-18 17:38:38,979: model: DEBUG: Will train all word embeddings
+    2017-07-18 17:38:39,685: __main__: DEBUG: Compile trainer
+    2017-07-18 17:38:39,686: __main__: DEBUG: Training using variational lower bound on log-likelihood
+    2017-07-18 17:38:39,686: model: DEBUG: Building train function
+    2017-07-18 17:49:59,970: model: DEBUG: Building evaluation function
+    2017-07-18 17:53:05,599: __main__: DEBUG: Load data
+    2017-07-18 17:53:21,883: SS_dataset: DEBUG: Data len is 448833
+    2017-07-18 17:53:22,516: SS_dataset: DEBUG: Data len is 19584
+    2017-07-18 17:54:07,184: model: DEBUG: Initializing approximate posterior encoder for utterance-level latent variable
+    2017-07-18 17:54:07,209: model: DEBUG: Build approximate posterior encoder for utterance-level latent variable
+    2017-07-18 17:54:07,288: model: DEBUG: Build decoder (EVAL)
+    2017-07-18 17:54:58,838: __main__: DEBUG: [TRAIN] - Got batch 80,28
+    2017-07-18 17:54:59,447: __main__: DEBUG: [TRAIN] - Got batch 80,35
+    2017-07-18 17:55:00,166: __main__: DEBUG: [TRAIN] - Got batch 80,41
+    2017-07-18 17:55:00,971: __main__: DEBUG: [TRAIN] - Got batch 80,47
+    2017-07-18 17:55:01,896: __main__: DEBUG: [TRAIN] - Got batch 80,53
+    2017-07-18 17:55:02,946: __main__: DEBUG: [TRAIN] - Got batch 80,59
+    2017-07-18 17:55:04,098: __main__: DEBUG: [TRAIN] - Got batch 80,63
+    2017-07-18 17:55:05,362: __main__: DEBUG: [TRAIN] - Got batch 80,69
+    2017-07-18 17:55:06,772: __main__: DEBUG: [TRAIN] - Got batch 80,74
+    2017-07-18 17:55:08,256: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:09,832: __main__: DEBUG: [TRAIN] - Got batch 80,2
+    2017-07-18 17:55:09,968: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:11,524: __main__: DEBUG: [TRAIN] - Got batch 80,9
+    2017-07-18 17:55:11,801: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:13,401: __main__: DEBUG: [TRAIN] - Got batch 80,17
+    2017-07-18 17:55:13,815: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:15,399: __main__: DEBUG: [TRAIN] - Got batch 80,25
+    2017-07-18 17:55:15,933: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:17,512: __main__: DEBUG: [TRAIN] - Got batch 80,35
+    2017-07-18 17:55:18,243: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:19,855: __main__: DEBUG: [TRAIN] - Got batch 80,49
+    2017-07-18 17:55:20,844: __main__: DEBUG: [TRAIN] - Got batch 80,80
+    2017-07-18 17:55:22,428: __main__: DEBUG: [TRAIN] - Got batch 80,64
+    2017-07-18 17:55:23,695: __main__: DEBUG: [TRAIN] - Got batch 80,80
 
 ## Reference Articles
 
