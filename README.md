@@ -15,6 +15,12 @@ The task investigated by Serban et al. (2016a) and Serban et al. (2016b) is dial
 The context and response pairs are provided (see "ResponseContextPairs" subdirectories).
 The model responses by Serban et al. (2016a) and Serban et al. (2016b) are also provided (see "ModelPredictions" subdirectories).
 
+Any ideas on how lts will be released ? __eou__ __eot__ already is __eou__ __eot__
+how much hdd use ubuntu default install ? __eou__ __eot__ https://help.ubuntu.com/community/Installation/SystemRequirements __eou__ it wont require 15gb to be honest ... __eou__ __eot__
+in my country its nearly the 27th __eou__ when will 12.10 be out ? __eou__ __eot__ planned Oct 18th according to this . https://wiki.ubuntu.com/QuantalQuetzal/ReleaseSchedule?action=show&redirect=QReleaseSchedul __eou__ __eot__
+it 's not out __eou__ __eot__ they probabaly are waiting for all the mirrors to sync . the release annocement will be after that . __eou__ __eot__
+are the ext4 drivers stable ? __eou__ __eot__ I am not sure but the last time I checked , it wasn't __eou__ There have been numerous reports of data loss or corruption __eou__ __eot__
+    
 ## Reference Articles
 
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues. Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. 2016. http://arxiv.org/abs/1605.06069
