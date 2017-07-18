@@ -7,9 +7,14 @@
 
 ## Dataset
 
-Ubuntu Dialogue Corpus (http://www.iulianserban.com/Files/UbuntuDialogueCorpus.zip)
+Ubuntu Dialogue Corpus contains almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words. Here is its characteristics:
 
-This link contains a pre-processed versions of the Ubuntu Dialogue Corpus, which was used by Serban et al. (2016a) and Serban et al. (2016b) and originally developed by Lowe et al. (2015). There are three datasets: the natural language dialogues, the noun representations and the activity-entity representations. Each dataset is split into train, valid and test sets.
+    Two-way (or dyadic) conversation, as opposed to multi-participant chat, preferably human-human.
+    Large number of conversations; 100k - 1M is typical of datasets used for neural-network learning in other areas of AI.
+    Many conversations with several turns (more than 3).
+    Task-specific domain, as opposed to chatbot systems.
+
+This link (http://www.iulianserban.com/Files/UbuntuDialogueCorpus.zip) contains a pre-processed versions of the Ubuntu Dialogue Corpus, which was used by Serban et al. (2016a) and Serban et al. (2016b) and originally developed by Lowe et al. (2015). There are three datasets: the natural language dialogues, the noun representations and the activity-entity representations. Each dataset is split into train, valid and test sets.
 
 The task investigated by Serban et al. (2016a) and Serban et al. (2016b) is dialogue response generation. Given a dialogue context (**one or several utterances**), the dialogue model must generate an appropriate response (**a single utterance**).
 The context and response pairs are provided (see "ResponseContextPairs" subdirectories).
