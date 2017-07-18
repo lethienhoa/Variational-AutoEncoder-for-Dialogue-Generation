@@ -140,6 +140,134 @@ THEANO_FLAGS=mode=FAST_RUN,device=gpu,nvcc.flags=-D_FORCE_INLINES,floatX=float32
     2017-07-18 17:55:22,428: __main__: DEBUG: [TRAIN] - Got batch 80,64
     2017-07-18 17:55:23,695: __main__: DEBUG: [TRAIN] - Got batch 80,80
 
+Model outputs
+
+    Data Iterator Evaluate Mode:  False
+    Data Iterator Evaluate Mode:  True
+    W_emb = 24.5162
+    kl_divergence_cost_weight = 0.0000
+    W_infwd = 3.8771
+    W_hhfwd = 22.3607
+    b_hhfwd = 0.0000
+    W_in_rfwd = 3.8781
+    W_in_zfwd = 3.8854
+    W_hh_rfwd = 22.3607
+    W_hh_zfwd = 22.3607
+    b_zfwd = 0.0000
+    b_rfwd = 0.0000
+    Ws_deep_input = 7.0697
+    bs_deep_input = 0.0000
+    Ws_in = 9.9880
+    Ws_hh = 31.6228
+    bs_hh = 0.0000
+    Ws_in_r = 10.0044
+    Ws_in_z = 9.9949
+    Ws_hh_r = 31.6228
+    Ws_hh_z = 31.6228
+    bs_z = 0.0000
+    bs_r = 0.0000
+    bd_out = 0.0000
+    Wd_emb = 24.4985
+    Wd_hh = 22.3607
+    bd_hh = 0.0000
+    Wd_in = 3.8710
+    Wd_s_0 = 10.4926
+    bd_s_0 = 0.0000
+    Wd_in_i = 3.8651
+    Wd_hh_i = 4.9929
+    Wd_c_i = 5.0132
+    bd_i = 0.0000
+    Wd_in_f = 3.8804
+    Wd_hh_f = 5.0011
+    Wd_c_f = 5.0060
+    bd_f = 0.0000
+    Wd_in_o = 3.8722
+    Wd_hh_o = 4.9976
+    Wd_c_o = 4.9804
+    bd_o = 0.0000
+    Wd_s_i = 7.4283
+    Wd_s_f = 7.4017
+    Wd_s = 7.4281
+    Wd_s_o = 7.4145
+    Wd_out = 3.8828
+    Wd_e_out = 2.9932
+    bd_e_out = 0.0000
+    Wd_s_out = 5.7242
+    Wl_deep_inputlatent_utterance_prior = 3.1612
+    bl_deep_inputlatent_utterance_prior = 0.0000
+    Wl_inlatent_utterance_prior = 1.0020
+    bl_inlatent_utterance_prior = 0.0000
+    Wl_mean_outlatent_utterance_prior = 0.9998
+    bl_mean_outlatent_utterance_prior = 0.0000
+    Wl_std_outlatent_utterance_prior = 0.9959
+    bl_std_outlatent_utterance_prior = 0.0000
+    Wl_deep_inputlatent_utterance_approx_posterior = 3.8657
+    bl_deep_inputlatent_utterance_approx_posterior = 0.0000
+    Wl_inlatent_utterance_approx_posterior = 1.0053
+    bl_inlatent_utterance_approx_posterior = 0.0000
+    Wl_mean_outlatent_utterance_approx_posterior = 1.0012
+    bl_mean_outlatent_utterance_approx_posterior = 0.0000
+    Wl_std_outlatent_utterance_approx_posterior = 0.9958
+    bl_std_outlatent_utterance_approx_posterior = 0.0000
+    Sampled : ['BROADCAST synatpic Trust 1.8 rare subfolders matrix ***** telephone contains saved rendered ubuntuzilla wmaster0 hid control en All pcf operating tmpfs <== usplash jason drastic recovers openssl cdrom0 alsamixer apt-cdrom conclude notification-daemon handful provider trusting 1010 AIM 2G launcher fades supybot surfing Great -3 daughter x-window-system-dev chance leftover films directly wold dolphin finish blender modelines DMCA usr lurking -y Initializing RDP mean nVIDIA /etc/mtab presents restores Matlab Motherboard kicking speech symbols Bar efficient linux-image-686 ati ta complained Texas equivilent holds resizer +r etherape Mail naming unstable firewalled *have* fragmentation bzip2 eachother problem) dvdrip Hauppauge compizconfig combine -user Fatal :/ securely']
+    cost_sum 17469.6835938
+    cost_mean 9.47379804433
+    kl_divergence_cost_sum 0.00138854980469
+    kl_divergence_cost_mean 5.62165912829e-06
+    posterior_mean_variance 0.0693147182465
+    .. 00:01:36 44638 mb # 0 bs 80 maxl 28 acc_cost = 9.9034 acc_word_perplexity = 19999.2240 cur_cost = 9.9034 cur_word_perplexity = 19999.2240 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 0.00000079 acc_mean_posterior_variance = 0.00086643
+    cost_sum 24321.3535156
+    cost_mean 9.59043908345
+    kl_divergence_cost_sum 0.00947570800781
+    kl_divergence_cost_mean 3.74533913352e-05
+    posterior_mean_variance 0.0693145319819
+    cost_sum 29568.234375
+    cost_mean 9.64391205969
+    kl_divergence_cost_sum 0.0299072265625
+    kl_divergence_cost_mean 0.000118679470486
+    posterior_mean_variance 0.0693151652813
+    cost_sum 34438.65625
+    cost_mean 9.67921760821
+    kl_divergence_cost_sum 0.0582275390625
+    kl_divergence_cost_mean 0.000223094019397
+    posterior_mean_variance 0.0693156644702
+    cost_sum 38931.0820312
+    cost_mean 9.70365952922
+    kl_divergence_cost_sum 0.0903625488281
+    kl_divergence_cost_mean 0.000343583835848
+    posterior_mean_variance 0.0693157315254
+    cost_sum 43233.875
+    cost_mean 9.72203170677
+    kl_divergence_cost_sum 0.13151550293
+    kl_divergence_cost_mean 0.000464719091624
+    posterior_mean_variance 0.0693159177899
+    cost_sum 47673.1640625
+    cost_mean 9.73716586244
+    kl_divergence_cost_sum 0.187088012695
+    kl_divergence_cost_mean 0.000607428612647
+    posterior_mean_variance 0.0693163722754
+    cost_sum 51645.5351562
+    cost_mean 9.74811913104
+    kl_divergence_cost_sum 0.2158203125
+    kl_divergence_cost_mean 0.000751987151568
+    posterior_mean_variance 0.069316983223
+    cost_sum 55748.859375
+    cost_mean 9.75653821754
+    kl_divergence_cost_sum 0.288986206055
+    kl_divergence_cost_mean 0.000935230440306
+    posterior_mean_variance 0.0693174749613
+    cost_sum 60483.4570312
+    cost_mean 9.76326990012
+    kl_divergence_cost_sum 0.37614440918
+    kl_divergence_cost_mean 0.00117545127869
+    posterior_mean_variance 0.0693178027868
+    cost_sum 59.0262298584
+    cost_mean 2.95131149292
+    kl_divergence_cost_sum 0.0
+    kl_divergence_cost_mean nan
+    posterior_mean_variance 0.0
+    .. 00:01:47 44638 mb # 10 bs 80 maxl 2 acc_cost = 9.8983 acc_word_perplexity = 19896.2438 cur_cost = 9.8981 cur_word_perplexity = 19891.5995 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 0.00003407 acc_mean_posterior_variance = 0.00086645
+
 ## Reference Articles
 
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues. Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. 2016. http://arxiv.org/abs/1605.06069
