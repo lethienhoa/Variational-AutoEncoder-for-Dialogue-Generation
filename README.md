@@ -140,7 +140,7 @@ THEANO_FLAGS=mode=FAST_RUN,device=gpu,nvcc.flags=-D_FORCE_INLINES,floatX=float32
     2017-07-18 17:55:22,428: __main__: DEBUG: [TRAIN] - Got batch 80,64
     2017-07-18 17:55:23,695: __main__: DEBUG: [TRAIN] - Got batch 80,80
 
-Model outputs
+Here are Model outputs. Though I observe some SeqOptimizer apply PushOutScanOutput error (https://groups.google.com/forum/#!topic/theano-users/PCg5KjskuN4), the learning is still done as the cost and word perplexity decrease gradually below.
 
     Data Iterator Evaluate Mode:  False
     Data Iterator Evaluate Mode:  True
