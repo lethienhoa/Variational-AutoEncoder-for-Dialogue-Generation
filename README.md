@@ -209,13 +209,17 @@ Model outputs
     bl_mean_outlatent_utterance_approx_posterior = 0.0000
     Wl_std_outlatent_utterance_approx_posterior = 0.9958
     bl_std_outlatent_utterance_approx_posterior = 0.0000
+    
     Sampled : ['BROADCAST synatpic Trust 1.8 rare subfolders matrix ***** telephone contains saved rendered ubuntuzilla wmaster0 hid control en All pcf operating tmpfs <== usplash jason drastic recovers openssl cdrom0 alsamixer apt-cdrom conclude notification-daemon handful provider trusting 1010 AIM 2G launcher fades supybot surfing Great -3 daughter x-window-system-dev chance leftover films directly wold dolphin finish blender modelines DMCA usr lurking -y Initializing RDP mean nVIDIA /etc/mtab presents restores Matlab Motherboard kicking speech symbols Bar efficient linux-image-686 ati ta complained Texas equivilent holds resizer +r etherape Mail naming unstable firewalled *have* fragmentation bzip2 eachother problem) dvdrip Hauppauge compizconfig combine -user Fatal :/ securely']
+    
     cost_sum 17469.6835938
     cost_mean 9.47379804433
     kl_divergence_cost_sum 0.00138854980469
     kl_divergence_cost_mean 5.62165912829e-06
     posterior_mean_variance 0.0693147182465
+    
     .. 00:01:36 44638 mb # 0 bs 80 maxl 28 acc_cost = 9.9034 acc_word_perplexity = 19999.2240 cur_cost = 9.9034 cur_word_perplexity = 19999.2240 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 0.00000079 acc_mean_posterior_variance = 0.00086643
+    
     cost_sum 24321.3535156
     cost_mean 9.59043908345
     kl_divergence_cost_sum 0.00947570800781
@@ -266,7 +270,22 @@ Model outputs
     kl_divergence_cost_sum 0.0
     kl_divergence_cost_mean nan
     posterior_mean_variance 0.0
+    
     .. 00:01:47 44638 mb # 10 bs 80 maxl 2 acc_cost = 9.8983 acc_word_perplexity = 19896.2438 cur_cost = 9.8981 cur_word_perplexity = 19891.5995 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 0.00003407 acc_mean_posterior_variance = 0.00086645
+    .
+    .
+    .
+    .
+    .
+    Sampled : ['np for \'s owner or and everyone lol __eou__ __eot__ is " knows im can to screws ) ( schema ran ? to ) __eou__ directly util so __eot__ you probably out have that it in if . kernel there not is see just normal parameters the client binaries __eou__ i a strategy " video then verizon , games command info they until i problem __eou__ __eot__']
+    
+    cost_sum 37240.1992188
+    cost_mean 5.81878112793
+    kl_divergence_cost_sum 1.61627197266
+    kl_divergence_cost_mean 0.00538757324219
+    posterior_mean_variance 0.0688314735889
+    
+    .. 00:09:59 44630 mb # 400 bs 80 maxl 80 acc_cost = 6.3840 acc_word_perplexity = 592.2839 cur_cost = 5.9487 cur_word_perplexity = 383.2400 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 0.04017199 acc_mean_posterior_variance = 0.00170150
 
 ## Reference Articles
 
