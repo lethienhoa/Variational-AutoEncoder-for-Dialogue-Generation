@@ -16,18 +16,18 @@ The context and response pairs are provided (see "ResponseContextPairs" subdirec
 The model responses by Serban et al. (2016a) and Serban et al. (2016b) are also provided (see "ModelPredictions" subdirectories).
 
     *Context Examples:*
-    1. Any ideas on how lts will be released ? __eou__ __eot__ already is __eou__ __eot__
-    2. how much hdd use ubuntu default install ? __eou__ __eot__ https://help.ubuntu.com/community/Installation/SystemRequirements __eou__ it wont require 15gb to be honest ... __eou__ __eot__
-    3. in my country its nearly the 27th __eou__ when will 12.10 be out ? __eou__ __eot__ planned Oct 18th according to this . https://wiki.ubuntu.com/QuantalQuetzal/ReleaseSchedule?action=show&redirect=QReleaseSchedul __eou__ __eot__
-    4. it 's not out __eou__ __eot__ they probabaly are waiting for all the mirrors to sync . the release annocement will be after that . __eou__ __eot__
-    5. are the ext4 drivers stable ? __eou__ __eot__ I am not sure but the last time I checked , it wasn't __eou__ There have been numerous reports of data loss or corruption __eou__ __eot__
+    1. anyone knows why my stock oneiric exports env var ' **unknown** I mean what is that used for ? I know of $USER but not $USERNAME . My precise install doesn't export USERNAME __eou__ __eot__ looks like it used to be exported by lightdm , but the line had the comment " // **unknown** : Is this required ?" so I guess it isn't surprising it is gone __eou__ __eot__ thanks ! How the heck did you figure that out ? __eou__ __eot__ https://bugs.launchpad.net/lightdm/+bug/864109/comments/3 __eou__ __eot__
+    2. i set up my hd such that i have to type a passphrase to access it at boot . how can i remove that passwrd , and just boot up normal . i did this at install , it works fine , just tired of having reboots where i need to be at terminal to type passwd in . help ? __eou__ __eot__ backup your data , and re-install without encryption " might " be the easiest method __eou__ __eot__
+    3. im trying to use ubuntu on my macbook pro retina __eou__ i read in the forums that ubuntu has a apple version now ? __eou__ __eot__ not that ive ever heard of .. normal ubutnu should work on an intel based mac . there is the PPC version also . __eou__ you want total control ? or what are you wanting exactly ? __eou__ __eot__
+    4. no suggestions ? __eou__ links ? __eou__ how can i remove luks passphrase at boot . i dont want to use feature anymore ... __eou__ __eot__ you may need to create a new volume __eou__ __eot__ that leads me to the next question lol ... i dont know how to create new volumes exactly in cmdline , usually i use a gui . im just trying to access this server via usb loaded with next os im going to load , the luks pw is stopping me __eou__ __eot__ for something like that I would likely use something like a live gparted disk to avoid the conflict of editing from the disk __eou__ __eot__
+    5. I just added a second usb printer but not sure what the uri should read - can anyone help with usb printers ? __eou__ __eot__ firefox localhost : 631 __eou__ __eot__ firefox ? __eou__ __eot__ yes __eou__ firefox localhost : 631 __eou__ firefox http://localhost:631 __eou__ cups has a web based interface __eou__ __eot__
     
-    *Respective responses examples:*
-    1. We are talking 12.04 not 10.04 __eou__
-    2. thats why i ask how much is default install ? :) __eou__
-    3. thanx __eou__
-    4. waiting for many things to be setup __eou__ final warning - you don't know when it will be released , so don't suggest it will be any moment __eou__
-    5. you sound like it 's updating to skynet . ;) __eou__
+    *Ground-truth respective responses examples:*
+    1. nice thanks ! __eou__
+    2. so you dont know , ok , anyone else ? __eou__ you are like , yah my mouse doesnt work , reinstall your os lolol what a joke __eou__
+    3. just wondering how it runs __eou__
+    4. you cant load anything via usb or cd when luks is running __eou__ it wont allow usb boot , i tried with 2 diff usb drives __eou__
+    5. i was setting it up under the printer configuration __eou__ thanks ! __eou__
     
 ## Reference Articles
 
