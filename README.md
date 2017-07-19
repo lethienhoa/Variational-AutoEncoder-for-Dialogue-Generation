@@ -286,6 +286,10 @@ Here are Model outputs. Though I observe some SeqOptimizer apply PushOutScanOutp
     posterior_mean_variance 0.0688314735889
     
     .. 00:09:59 44630 mb # 400 bs 80 maxl 80 acc_cost = 6.3840 acc_word_perplexity = 592.2839 cur_cost = 5.9487 cur_word_perplexity = 383.2400 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 0.04017199 acc_mean_posterior_variance = 0.00170150
+    
+After 1 day
+
+    .. 17:04:31 43615 mb # 49310 bs 80 maxl 53 acc_cost = 4.3074 acc_word_perplexity = 74.2457 cur_cost = 4.1864 cur_word_perplexity = 65.7825 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 3.67706041 acc_mean_posterior_variance = 0.00115113
 
 ## Reference Articles
 
