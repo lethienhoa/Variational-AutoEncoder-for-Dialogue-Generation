@@ -291,6 +291,10 @@ After 1 day
 
     .. 17:04:31 43615 mb # 49310 bs 80 maxl 53 acc_cost = 4.3074 acc_word_perplexity = 74.2457 cur_cost = 4.1864 cur_word_perplexity = 65.7825 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 3.67706041 acc_mean_posterior_variance = 0.00115113
 
+After 2 day
+
+    .. 41:03:10 42176 mb # 117700 bs 80 maxl 62 acc_cost = 4.0933 acc_word_perplexity = 59.9383 cur_cost = 4.0880 cur_word_perplexity = 59.6179 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 9.79198230 acc_mean_posterior_variance = 0.00072780
+
 ## Reference Articles
 
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues. Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. 2016. http://arxiv.org/abs/1605.06069
