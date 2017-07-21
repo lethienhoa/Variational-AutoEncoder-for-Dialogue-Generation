@@ -299,6 +299,36 @@ After 1 day
 
     .. 69:23:46 40476 mb # 196940 bs 80 maxl 35 acc_cost = 4.0085 acc_word_perplexity = 55.0616 cur_cost = 4.0004 cur_word_perplexity = 54.6179 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 19.09560752 acc_mean_posterior_variance = 0.00057015
 
+## Neural chatbot
+
+The model in the paper *A Neural Conversational Model* show consecutive question-response pairs on the fly, which is more similar to a dialogue conversation as we see:
+
+    Q: When are the fireworks ?
+    A: Tomorrow.
+
+    Q: What color ?
+    A: Gray.
+
+    Q: Which apple ?
+    A: That's the first one.
+
+    Q: What time is it ?
+    A: Eleven o'clock.
+
+    Q: Who is Skywalker ?
+    A: She's a freelance bio-exorcist.
+
+    Q: Who is John ?
+    A: The old man.
+
+    Q: Who is Jenny ?
+    A: The man who killed herself.
+
+    Q: When were you born ?
+    A: Soon.
+
+However, it only treat each couple q-a independently without noticing the history. A Hierarchical Seq2seq (VHRED) could be more useful in this case as it will incorporate all the history informations seen in the past of the dialogue.
+
 ## Reference Articles
 
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues. Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. 2016. http://arxiv.org/abs/1605.06069
