@@ -329,9 +329,9 @@ The model in the paper *A Neural Conversational Model* show consecutive question
 
 However, it only treat each couple q-a independently without noticing the history. A Hierarchical Seq2seq (VHRED) could be more useful in this case as it will incorporate all the history informations seen in the past of the dialogue.
 
-## Cornell Movie Dialogs corpus
+## Cornell Movie Dialogs corpus (2011)
 
-This corpus contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts:
+This corpus contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts. It include both short and a little bit quite long conversations:
 
 - 220,579 conversational exchanges between 10,292 pairs of movie characters
 - involves 9,035 characters from 617 movies
