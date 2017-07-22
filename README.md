@@ -492,7 +492,7 @@ This corpus contains a large metadata-rich collection of fictional conversations
 </p>
 <p align="center">Neural Chatbot</p>
 
-The result of the original model is very bad. For example:
+It took only 1 or 2 hours of training (on a GTX 1080), by drastically reducing the input sequence to 5 words and output to 3 (plus the go and eos tokens) and by using a small embedding size (64). The result of this model is very bad. It answer most of the open ended questions by 'I don't know':
 
     Q: When are you ready ?
     A: I do n't know.
