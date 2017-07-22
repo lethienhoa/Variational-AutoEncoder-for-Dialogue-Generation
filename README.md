@@ -359,6 +359,77 @@ This corpus contains a large metadata-rich collection of fictional conversations
     Loaded cornell: 24643 words, 159657 QA
     Model creation...
     Initialize variables...
+    ----- Epoch 1/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 100 -- Loss 5.10 -- Perplexity 164.78                                                                                                                                  
+    ----- Step 200 -- Loss 5.04 -- Perplexity 154.89                                                                                                                                  
+    ----- Step 300 -- Loss 4.81 -- Perplexity 123.34                                                                                                                                  
+    ----- Step 400 -- Loss 4.75 -- Perplexity 115.32                                                                                                                                  
+    ----- Step 500 -- Loss 4.90 -- Perplexity 134.21                                                                                                                                  
+    ----- Step 600 -- Loss 4.72 -- Perplexity 111.71                                                                                                                                  
+    Training: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:54<00:00,  3.82it/s]
+    Epoch finished in 0:02:54.639001
+
+    ----- Epoch 2/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 700 -- Loss 4.64 -- Perplexity 103.35                                                                                                                                                            
+    ----- Step 800 -- Loss 4.80 -- Perplexity 121.69                                                                                                                                                            
+    ----- Step 900 -- Loss 4.71 -- Perplexity 111.40                                                                                                                                                            
+    ----- Step 1000 -- Loss 4.62 -- Perplexity 101.91                                                                                                                                                           
+    ----- Step 1100 -- Loss 4.60 -- Perplexity 99.48                                                                                                                                                            
+    ----- Step 1200 -- Loss 4.69 -- Perplexity 108.56                                                                                                                                                           
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:52<00:00,  3.85it/s]
+    Epoch finished in 0:02:52.450038
+
+    ----- Epoch 3/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 1300 -- Loss 4.56 -- Perplexity 95.31                                                                                                                                                            
+    ----- Step 1400 -- Loss 4.54 -- Perplexity 93.69                                                                                                                                                            
+    ----- Step 1500 -- Loss 4.50 -- Perplexity 89.90                                                                                                                                                            
+    ----- Step 1600 -- Loss 4.49 -- Perplexity 89.39                                                                                                                                                            
+    ----- Step 1700 -- Loss 4.40 -- Perplexity 81.64                                                                                                                                                            
+    ----- Step 1800 -- Loss 4.46 -- Perplexity 86.75                                                                                                                                                            
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:51<00:00,  3.91it/s]
+    Epoch finished in 0:02:51.232390
+
+    ----- Epoch 4/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 1900 -- Loss 4.39 -- Perplexity 80.85                                                                                                                                                            
+    ----- Step 2000 -- Loss 4.27 -- Perplexity 71.62                                                                                                                                                            
+    Checkpoint reached: saving model (don't stop the run)...                                                                                                                                                    
+    Model saved.                                                                                                                                                                                                
+    ----- Step 2100 -- Loss 4.31 -- Perplexity 74.30                                                                                                                                                            
+    ----- Step 2200 -- Loss 4.38 -- Perplexity 79.79                                                                                                                                                            
+    ----- Step 2300 -- Loss 4.31 -- Perplexity 74.81                                                                                                                                                            
+    ----- Step 2400 -- Loss 4.07 -- Perplexity 58.73                                                                                                                                                            
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:55<00:00,  3.87it/s]
+    Epoch finished in 0:02:55.360917
+
+    ----- Epoch 5/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 2500 -- Loss 4.07 -- Perplexity 58.38                                                                                                                                                            
+    ----- Step 2600 -- Loss 4.12 -- Perplexity 61.50                                                                                                                                                            
+    ----- Step 2700 -- Loss 3.92 -- Perplexity 50.34                                                                                                                                                            
+    ----- Step 2800 -- Loss 3.86 -- Perplexity 47.46                                                                                                                                                            
+    ----- Step 2900 -- Loss 3.82 -- Perplexity 45.63                                                                                                                                                            
+    ----- Step 3000 -- Loss 3.86 -- Perplexity 47.42                                                                                                                                                            
+    ----- Step 3100 -- Loss 3.83 -- Perplexity 46.27                                                                                                                                                            
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:52<00:00,  3.84it/s]
+    Epoch finished in 0:02:52.935633
+
+    ----- Epoch 6/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 3200 -- Loss 3.75 -- Perplexity 42.47                                                                                                                                                            
+    ----- Step 3300 -- Loss 3.66 -- Perplexity 39.05                                                                                                                                                            
+    ----- Step 3400 -- Loss 3.87 -- Perplexity 47.75                                                                                                                                                            
+    ----- Step 3500 -- Loss 3.70 -- Perplexity 40.46                                                                                                                                                            
+    ----- Step 3600 -- Loss 3.76 -- Perplexity 42.85                                                                                                                                                            
+    ----- Step 3700 -- Loss 3.64 -- Perplexity 37.98                                                                                                                                                            
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:52<00:00,  3.84it/s]
+    Epoch finished in 0:02:52.388789
+
+
+
 
 ## Reference Articles
 
