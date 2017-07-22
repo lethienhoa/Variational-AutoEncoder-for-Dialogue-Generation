@@ -346,6 +346,19 @@ This corpus contains a large metadata-rich collection of fictional conversations
     - IMDB rating
     - number of IMDB votes
     - IMDB rating
+    
+## DeepQA
+
+    TensorFlow detected: v1.2.1
+    Training samples not found. Creating dataset...
+    Constructing full dataset...
+    Extract conversations: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 83097/83097 [03:16<00:00, 423.91it/s]
+    Loaded cornell: 59755 words, 221282 QA
+    Filtering words (vocabSize = 40000 and wordCount > 1)...
+    Saving dataset...                                                                                                                                                                 
+    Loaded cornell: 24643 words, 159657 QA
+    Model creation...
+    Initialize variables...
 
 ## Reference Articles
 
