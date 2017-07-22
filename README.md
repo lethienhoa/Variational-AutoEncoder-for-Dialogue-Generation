@@ -291,13 +291,17 @@ After 1 day
 
     .. 17:04:31 43615 mb # 49310 bs 80 maxl 53 acc_cost = 4.3074 acc_word_perplexity = 74.2457 cur_cost = 4.1864 cur_word_perplexity = 65.7825 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 3.67706041 acc_mean_posterior_variance = 0.00115113
 
-2 day
+2 days
 
     .. 41:03:10 42176 mb # 117700 bs 80 maxl 62 acc_cost = 4.0933 acc_word_perplexity = 59.9383 cur_cost = 4.0880 cur_word_perplexity = 59.6179 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 9.79198230 acc_mean_posterior_variance = 0.00072780
 
-3 day
+3 days
 
     .. 69:23:46 40476 mb # 196940 bs 80 maxl 35 acc_cost = 4.0085 acc_word_perplexity = 55.0616 cur_cost = 4.0004 cur_word_perplexity = 54.6179 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 19.09560752 acc_mean_posterior_variance = 0.00057015
+    
+4 days
+
+    .. 91:33:04 39146 mb # 261060 bs 80 maxl 81 acc_cost = 3.9547 acc_word_perplexity = 52.1785 cur_cost = 3.9645 cur_word_perplexity = 52.6949 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 43.03374214 acc_mean_posterior_variance = 0.00050226
 
 # Neural chatbot
 
