@@ -492,7 +492,54 @@ This corpus contains a large metadata-rich collection of fictional conversations
 </p>
 <p align="center">Neural Chatbot</p>
 
-It took only 1 or 2 hours of training (on a GTX 1080) for 30 epochs. The result of the model is very bad if it is not trained long enough. It answer most of the open ended questions by 'I don't know':
+It took only 1 or 2 hours of training (on a GTX 1080) for 30 epochs. There are some short answers that first looks a lot like a real-human conversation but when we twist just a little bit the question, the dialogue is immediately derailed.
+
+    Q: Hi
+    A: Hi, grueller.
+
+    Q: Hi!
+    A: Hi, man.
+
+    Q: Hi ?
+    A: Yes?
+
+    Q: Hello world!
+    A: Hello.
+
+    Q: Hello ?
+    A: Hello, bob.
+
+    Q: Hello
+    A: I'm sorry.
+
+    Q: Good night.
+    A: Good night.
+
+    Q: Are you conscious?
+    A: I'm not sure.
+
+    Q: What is your name ?
+    A: The monkey.
+
+    Q: Are you alive ?
+    A: No.
+
+    Q: Luke, I am your father!
+    A: What?
+
+    Q: Are you ready ?
+    A: Yes.
+
+    Q: Goodbye
+    A: I'm sorry.
+
+    Q: Goodbye!
+    A: What is it?
+
+    Q: Goodbye john.
+    A: What?
+
+More seriously, the result of the model is very bad if it is not trained long enough. It answer most of the open ended questions by 'I don't know':
 
     Q: When are you ready ?
     A: I do n't know.
