@@ -492,7 +492,7 @@ This corpus contains a large metadata-rich collection of fictional conversations
 </p>
 <p align="center">Neural Chatbot</p>
 
-It took only 1 or 2 hours of training (on a GTX 1080) for 30 epochs. The result of this model is very bad. It answer most of the open ended questions by 'I don't know':
+It took only 1 or 2 hours of training (on a GTX 1080) for 30 epochs. The result of the model is very bad if it is not trained long enough. It answer most of the open ended questions by 'I don't know':
 
     Q: When are you ready ?
     A: I do n't know.
@@ -881,7 +881,7 @@ It took only 1 or 2 hours of training (on a GTX 1080) for 30 epochs. The result 
     Q: Who are you crazy about ?
     A: I do n't know.
 
-## Get more diverse responses
+## How to get more diverse responses
 
 - Maximum Mutual Information (MMI) Objective Function (https://arxiv.org/pdf/1510.03055v3.pdf)
 - Generating N-best candidate solutions by Beam Search on the decoder output (https://gist.github.com/nikitakit/6ab61a73b86c50ad88d409bac3c3d09f)
