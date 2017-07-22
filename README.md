@@ -457,6 +457,35 @@ This corpus contains a large metadata-rich collection of fictional conversations
     Checkpoint reached: saving model (don't stop the run)...
     Model saved.
 
+## Prediction
+
+    Warning: Restoring parameters:
+    globStep: 18720
+    watsonMode: False
+    autoEncode: False
+    corpus: cornell
+    datasetTag: 
+    maxLength: 10
+    filterVocab: 1
+    skipLines: False
+    vocabularySize: 40000
+    hiddenSize: 512
+    numLayers: 2
+    softmaxSamples: 0
+    initEmbeddings: False
+    embeddingSize: 64
+    embeddingSource: GoogleNews-vectors-negative300.bin
+
+    Loading dataset from /home/hoa/DeepQA/data/samples/dataset-cornell-length10-filter1-vocabSize40000.pkl
+    Loaded cornell: 24643 words, 159657 QA
+    Model creation...
+    Initialize variables...
+    Start predicting...
+    Restoring previous model from /home/hoa/DeepQA/save/model/model.ckpt
+    Testing...
+    Sentences: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 328/328 [00:08<00:00, 39.05it/s]
+    Prediction finished, 5/328 sentences ignored (too long)
+    All predictions done
 
 <p align="center">
     <img src="https://github.com/lethienhoa/VHRED-implementation-in-Tensorflow/blob/master/chatbot.png" alt>
