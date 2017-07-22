@@ -427,6 +427,35 @@ This corpus contains a large metadata-rich collection of fictional conversations
     ----- Step 3700 -- Loss 3.64 -- Perplexity 37.98                                                                                                                                                            
     Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:52<00:00,  3.84it/s]
     Epoch finished in 0:02:52.388789
+    .
+    .
+    .
+        ----- Epoch 29/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 17500 -- Loss 2.81 -- Perplexity 16.66                                                                                                                                                           
+    ----- Step 17600 -- Loss 2.76 -- Perplexity 15.78                                                                                                                                                           
+    ----- Step 17700 -- Loss 2.74 -- Perplexity 15.47                                                                                                                                                           
+    ----- Step 17800 -- Loss 2.78 -- Perplexity 16.12                                                                                                                                                           
+    ----- Step 17900 -- Loss 2.86 -- Perplexity 17.52                                                                                                                                                           
+    ----- Step 18000 -- Loss 2.76 -- Perplexity 15.75                                                                                                                                                           
+    Checkpoint reached: saving model (don't stop the run)...                                                                                                                                                    
+    Model saved.                                                                                                                                                                                                
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:52<00:00,  3.89it/s]
+    Epoch finished in 0:02:52.714953
+
+    ----- Epoch 30/30 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 18100 -- Loss 2.70 -- Perplexity 14.84                                                                                                                                                           
+    ----- Step 18200 -- Loss 2.76 -- Perplexity 15.73                                                                                                                                                           
+    ----- Step 18300 -- Loss 2.85 -- Perplexity 17.35                                                                                                                                                           
+    ----- Step 18400 -- Loss 2.76 -- Perplexity 15.78                                                                                                                                                           
+    ----- Step 18500 -- Loss 2.75 -- Perplexity 15.70                                                                                                                                                           
+    ----- Step 18600 -- Loss 2.85 -- Perplexity 17.37                                                                                                                                                           
+    ----- Step 18700 -- Loss 2.83 -- Perplexity 16.89                                                                                                                                                           
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:49<00:00,  3.91it/s]
+    Epoch finished in 0:02:49.235801
+    Checkpoint reached: saving model (don't stop the run)...
+    Model saved.
 
 
 <p align="center">
