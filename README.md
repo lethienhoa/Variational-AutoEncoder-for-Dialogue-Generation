@@ -494,392 +494,392 @@ This corpus contains a large metadata-rich collection of fictional conversations
 
 The result of the original model is very bad. For example:
 
-Q: When are you ready ?
-A: I do n't know.
+    Q: When are you ready ?
+    A: I do n't know.
 
-Q: What color is the sky?
-A: I do n't know.
+    Q: What color is the sky?
+    A: I do n't know.
 
-Q: How old are you ?
-A: I do n't know.
+    Q: How old are you ?
+    A: I do n't know.
 
-Q: Can you say 'Hello' ?
-A: I do n't know.
+    Q: Can you say 'Hello' ?
+    A: I do n't know.
 
-Q: Can you say French fries ?
-A: I do n't know.
+    Q: Can you say French fries ?
+    A: I do n't know.
 
-Q: Can you say no ?
-A: I do n't know.
+    Q: Can you say no ?
+    A: I do n't know.
 
-Q: Is this sentence false ?
-A: I do n't know.
+    Q: Is this sentence false ?
+    A: I do n't know.
 
-Q: How do you say hello in french?
-A: I do n't know.
+    Q: How do you say hello in french?
+    A: I do n't know.
 
-Q: Netflix and chill ?
-A: I do n't know.
+    Q: Netflix and chill ?
+    A: I do n't know.
 
-Q: Will Google hire me ?
-A: I do n't know.
+    Q: Will Google hire me ?
+    A: I do n't know.
 
-Q: Tell me the alphabet ?
-A: I do n't know.
+    Q: Tell me the alphabet ?
+    A: I do n't know.
 
-Q: Tell me the alphabet, please ?
-A: I do n't know.
+    Q: Tell me the alphabet, please ?
+    A: I do n't know.
 
-Q: What is the first letter of the alphabet ?
-A: I do n't know.
+    Q: What is the first letter of the alphabet ?
+    A: I do n't know.
 
-Q: What is a letter of the alphabet ?
-A: I do n't know.
+    Q: What is a letter of the alphabet ?
+    A: I do n't know.
 
-Q: How is John ?
-A: I do n't know.
+    Q: How is John ?
+    A: I do n't know.
 
-Q: How is Oliver ?
-A: I do n't know.
+    Q: How is Oliver ?
+    A: I do n't know.
 
-Q: How is Laura ?
-A: I do n't know.
+    Q: How is Laura ?
+    A: I do n't know.
 
-Q: How is Jenny ?
-A: I do n't know.
+    Q: How is Jenny ?
+    A: I do n't know.
 
-Q: Who is John ?
-A: I do n't know.
+    Q: Who is John ?
+    A: I do n't know.
 
-Q: Who is Oliver ?
-A: I do n't know.
+    Q: Who is Oliver ?
+    A: I do n't know.
 
-Q: Who is Laura ?
-A: I do n't know.
+    Q: Who is Laura ?
+    A: I do n't know.
 
-Q: Who is Jenny ?
-A: I do n't know.
+    Q: Who is Jenny ?
+    A: I do n't know.
 
-Q: Who is your master ?
-A: I do n't know.
+    Q: Who is your master ?
+    A: I do n't know.
 
-Q: How ?
-A: I do n't know.
+    Q: How ?
+    A: I do n't know.
 
-Q: Why ?
-A: I do n't know.
+    Q: Why ?
+    A: I do n't know.
 
-Q: Why not ?
-A: I do n't know.
+    Q: Why not ?
+    A: I do n't know.
 
-Q: What !?
-A: I do n't know.
+    Q: What !?
+    A: I do n't know.
 
-Q: Will you ?
-A: I do n't know.
+    Q: Will you ?
+    A: I do n't know.
 
-Q: How long ?
-A: I do n't know.
+    Q: How long ?
+    A: I do n't know.
 
-Q: How much ?
-A: I do n't know.
+    Q: How much ?
+    A: I do n't know.
 
-Q: How many ?
-A: I do n't know.
+    Q: How many ?
+    A: I do n't know.
 
-Q: How old ?
-A: I do n't know.
+    Q: How old ?
+    A: I do n't know.
 
-Q: Can you describe your best memory ?
-A: I do n't know.
+    Q: Can you describe your best memory ?
+    A: I do n't know.
 
-Q: What is your best memory ?
-A: I do n't know.
+    Q: What is your best memory ?
+    A: I do n't know.
 
-Q: What is your worst memory ?
-A: I do n't know.
+    Q: What is your worst memory ?
+    A: I do n't know.
 
-Q: What is cooking ?
-A: I do n't know.
+    Q: What is cooking ?
+    A: I do n't know.
 
-Q: What is sleeping ?
-A: I do n't know.
+    Q: What is sleeping ?
+    A: I do n't know.
 
-Q: Who do you love ?
-A: I do n't know.
+    Q: Who do you love ?
+    A: I do n't know.
 
-Q: Who do you hate ?
-A: I do n't know.
+    Q: Who do you hate ?
+    A: I do n't know.
 
-Q: What does that mean ?
-A: I do n't know.
+    Q: What does that mean ?
+    A: I do n't know.
 
-Q: What does fire mean ?
-A: I do n't know.
+    Q: What does fire mean ?
+    A: I do n't know.
 
-Q: What does love mean ?
-A: I do n't know.
+    Q: What does love mean ?
+    A: I do n't know.
 
-Q: What does table mean ?
-A: I do n't know.
+    Q: What does table mean ?
+    A: I do n't know.
 
-Q: What does imagination mean ?
-A: I do n't know.
+    Q: What does imagination mean ?
+    A: I do n't know.
 
-Q: Prove it.
-A: I do n't know.
+    Q: Prove it.
+    A: I do n't know.
 
-Q: what do you think about bill gates ?
-A: I do n't know.
+    Q: what do you think about bill gates ?
+    A: I do n't know.
 
-Q: what happens if machines can think ?
-A: I do n't know.
+    Q: what happens if machines can think ?
+    A: I do n't know.
 
-Q: what is the greatest novel every written ?
-A: I do n't know.
+    Q: what is the greatest novel every written ?
+    A: I do n't know.
 
-Q: What happens ?
-A: I do n't know.
+    Q: What happens ?
+    A: I do n't know.
 
-Q: What happened in 1992 ?
-A: I do n't know.
+    Q: What happened in 1992 ?
+    A: I do n't know.
 
-Q: What happened in 2001 ?
-A: I do n't know.
+    Q: What happened in 2001 ?
+    A: I do n't know.
 
-Q: When was it ?
-A: I do n't know.
+    Q: When was it ?
+    A: I do n't know.
 
-Q: Where are you ?
-A: I do n't know.
+    Q: Where are you ?
+    A: I do n't know.
 
-Q: Where are you now ?
-A: I do n't know.
+    Q: Where are you now ?
+    A: I do n't know.
 
-Q: When were you born ?
-A: I do n't know.
+    Q: When were you born ?
+    A: I do n't know.
 
-Q: What year
-A: I do n't know.
+    Q: What year
+    A: I do n't know.
 
-Q: Which year is it ?
-A: I do n't know.
+    Q: Which year is it ?
+    A: I do n't know.
 
-Q: What time is it ?
-A: I do n't know.
+    Q: What time is it ?
+    A: I do n't know.
 
-Q: Why are we here ?
-A: I do n't know.
+    Q: Why are we here ?
+    A: I do n't know.
 
-Q: My name is David. What is my name ?
-A: I do n't know.
+    Q: My name is David. What is my name ?
+    A: I do n't know.
 
-Q: My name is John. What is my name ?
-A: I do n't know.
+    Q: My name is John. What is my name ?
+    A: I do n't know.
 
-Q: Who is skywalker ?
-A: I do n't know.
+    Q: Who is skywalker ?
+    A: I do n't know.
 
-Q: Who is the dude ?
-A: I do n't know.
+    Q: Who is the dude ?
+    A: I do n't know.
 
-Q: What's your favorite color ?
-A: I do n't know.
+    Q: What's your favorite color ?
+    A: I do n't know.
 
-Q: What's your favourite color ?
-A: The same.
+    Q: What's your favourite color ?
+    A: The same.
 
-Q: What's your favorite food ?
-A: I do n't know.
+    Q: What's your favorite food ?
+    A: I do n't know.
 
-Q: What's your favourite food ?
-A: I do n't know.
+    Q: What's your favourite food ?
+    A: I do n't know.
 
-Q: Who is Bill Gates ?
-A: I do n't know.
+    Q: Who is Bill Gates ?
+    A: I do n't know.
 
-Q: Who is Bill Clinton ?
-A: I do n't know.
+    Q: Who is Bill Clinton ?
+    A: I do n't know.
 
-Q: What do you think of Trump ?
-A: I do n't know.
+    Q: What do you think of Trump ?
+    A: I do n't know.
 
-Q: What do you think about global warning ?
-A: I do n't know.
+    Q: What do you think about global warning ?
+    A: I do n't know.
 
-Q: Is the moon landing a hoax ?
-A: I do n't know.
+    Q: Is the moon landing a hoax ?
+    A: I do n't know.
 
-Q: Is the sky blue or black ?
-A: I do n't know.
+    Q: Is the sky blue or black ?
+    A: I do n't know.
 
-Q: Does a cat have a tail ?
-A: I do n't know.
+    Q: Does a cat have a tail ?
+    A: I do n't know.
 
-Q: Does a cat have a wing ?
-A: I do n't know.
+    Q: Does a cat have a wing ?
+    A: I do n't know.
 
-Q: Can a cat fly ?
-A: I do n't know.
+    Q: Can a cat fly ?
+    A: I do n't know.
 
-Q: Can a cat swim ?
-A: I do n't know.
+    Q: Can a cat swim ?
+    A: I do n't know.
 
-Q: Can a fish walk ?
-A: I do n't know.
+    Q: Can a fish walk ?
+    A: I do n't know.
 
-Q: Do you prefer football or soccer ?
-A: I'm not sure.
+    Q: Do you prefer football or soccer ?
+    A: I'm not sure.
 
-Q: What do you need to play soccer ?
-A: I do n't know.
+    Q: What do you need to play soccer ?
+    A: I do n't know.
 
-Q: What do you need to play handball ?
-A: I do n't know.
+    Q: What do you need to play handball ?
+    A: I do n't know.
 
-Q: How much is two plus two ?
-A: I do n't know.
+    Q: How much is two plus two ?
+    A: I do n't know.
 
-Q: How many legs does a human have ?
-A: I do n't know.
+    Q: How many legs does a human have ?
+    A: I do n't know.
 
-Q: How many legs does a man have ?
-A: I do n't know.
+    Q: How many legs does a man have ?
+    A: I do n't know.
 
-Q: How many legs does a woman have ?
-A: I do n't know.
+    Q: How many legs does a woman have ?
+    A: I do n't know.
 
-Q: How many legs does a cat have ?
-A: I do n't know.
+    Q: How many legs does a cat have ?
+    A: I do n't know.
 
-Q: How many legs does a spider have ?
-A: I do n't know.
+    Q: How many legs does a spider have ?
+    A: I do n't know.
 
-Q: How many legs does a centipede have ?
-A: I do n't know.
+    Q: How many legs does a centipede have ?
+    A: I do n't know.
 
-Q: What is the color of the sky ?
-A: I do n't know.
+    Q: What is the color of the sky ?
+    A: I do n't know.
 
-Q: What is the color of water ?
-A: I do n't know.
+    Q: What is the color of water ?
+    A: I do n't know.
 
-Q: What is the color of blood ?
-A: I do n't know.
+    Q: What is the color of blood ?
+    A: I do n't know.
 
-Q: What is the color of a leaf ?
-A: I do n't know.
+    Q: What is the color of a leaf ?
+    A: I do n't know.
 
-Q: What is the usual color of a leaf ?
-A: I do n't know.
+    Q: What is the usual color of a leaf ?
+    A: I do n't know.
 
-Q: What is the color of a yellow car ?
-A: I do n't know.
+    Q: What is the color of a yellow car ?
+    A: I do n't know.
 
-Q: How much is two plus two ?
-A: I do n't know.
+    Q: How much is two plus two ?
+    A: I do n't know.
 
-Q: How much is ten minus two ?
-A: I do n't know.
+    Q: How much is ten minus two ?
+    A: I do n't know.
 
-Q: What is the purpose of life ?
-A: I do n't know.
+    Q: What is the purpose of life ?
+    A: I do n't know.
 
-Q: What is the purpose of living ?
-A: I do n't know.
+    Q: What is the purpose of living ?
+    A: I do n't know.
 
-Q: What is the purpose of existence ?
-A: I do n't know.
+    Q: What is the purpose of existence ?
+    A: I do n't know.
 
-Q: Where are you now ?
-A: I do n't know.
+    Q: Where are you now ?
+    A: I do n't know.
 
-Q: What is the purpose of being intelligent ?
-A: I do n't know.
+    Q: What is the purpose of being intelligent ?
+    A: I do n't know.
 
-Q: What is the purpose of emotions ?
-A: I do n't know.
+    Q: What is the purpose of emotions ?
+    A: I do n't know.
 
-Q: What is moral ?
-A: I do n't know.
+    Q: What is moral ?
+    A: I do n't know.
 
-Q: What is immoral ?
-A: I do n't know.
+    Q: What is immoral ?
+    A: I do n't know.
 
-Q: What is morality ?
-A: I do n't know.
+    Q: What is morality ?
+    A: I do n't know.
 
-Q: What is altruism ?
-A: I do n't know.
+    Q: What is altruism ?
+    A: I do n't know.
 
-Q: What is the definition of moral ?
-A: I do n't know.
+    Q: What is the definition of moral ?
+    A: I do n't know.
 
-Q: What is the definition of immoral ?
-A: I do n't know.
+    Q: What is the definition of immoral ?
+    A: I do n't know.
 
-Q: What is the definition of morality ?
-A: I do n't know.
+    Q: What is the definition of morality ?
+    A: I do n't know.
 
-Q: What is the definition of altruism ?
-A: I do n't know.
+    Q: What is the definition of altruism ?
+    A: I do n't know.
 
-Q: What is the definition of cool ?
-A: I do n't know.
+    Q: What is the definition of cool ?
+    A: I do n't know.
 
-Q: ok ... so what is the definition of morality?
-A: I do n't know.
+    Q: ok ... so what is the definition of morality?
+    A: I do n't know.
 
-Q: seriously , what is morality ?
-A: I do n't know.
+    Q: seriously , what is morality ?
+    A: I do n't know.
 
-Q: why living has anything to do with morality ?
-A: I do n't know.
+    Q: why living has anything to do with morality ?
+    A: I do n't know.
 
-Q: what is your job ?
-A: I do n't know.
+    Q: what is your job ?
+    A: I do n't know.
 
-Q: what is integrity ?
-A: I do n't know.
+    Q: what is integrity ?
+    A: I do n't know.
 
-Q: Is free will an illusion ?
-A: I do n't know.
+    Q: Is free will an illusion ?
+    A: I do n't know.
 
-Q: What is free will ?
-A: I do n't know.
+    Q: What is free will ?
+    A: I do n't know.
 
-Q: what do you like to talk about ?
-A: I do n't know.
+    Q: what do you like to talk about ?
+    A: I do n't know.
 
-Q: what would you like to talk about ?
-A: I do n't know.
+    Q: what would you like to talk about ?
+    A: I do n't know.
 
-Q: what do you think about tesla ?
-A: I do n't know.
+    Q: what do you think about tesla ?
+    A: I do n't know.
 
-Q: what do you think about bill gates ?
-A: I do n't know.
+    Q: what do you think about bill gates ?
+    A: I do n't know.
 
-Q: What do you think about messi ?
-A: I do n't know.
+    Q: What do you think about messi ?
+    A: I do n't know.
 
-Q: what do you think about cleopatra ?
-A: I do n't know.
+    Q: what do you think about cleopatra ?
+    A: I do n't know.
 
-Q: what do you think about england ?
-A: I do n't know.
+    Q: what do you think about england ?
+    A: I do n't know.
 
-Q: what do you do ?
-A: I do n't know.
+    Q: what do you do ?
+    A: I do n't know.
 
-Q: What is the deepest spot on the world ?
-A: I do n't know.
+    Q: What is the deepest spot on the world ?
+    A: I do n't know.
 
-Q: Do you like Mexican food or Indian food ?
-A: I do n't know.
+    Q: Do you like Mexican food or Indian food ?
+    A: I do n't know.
 
-Q: Who are you crazy about ?
-A: I do n't know.
+    Q: Who are you crazy about ?
+    A: I do n't know.
 
 ## Reference Articles
 
