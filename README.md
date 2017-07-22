@@ -429,6 +429,10 @@ This corpus contains a large metadata-rich collection of fictional conversations
     Epoch finished in 0:02:52.388789
 
 
+<p align="center">
+    <img src="https://github.com/lethienhoa/VHRED-implementation-in-Tensorflow/blob/master/chatbot.png" alt>
+</p>
+<p align="center">Neural Chatbot</p>
 
 
 ## Reference Articles
