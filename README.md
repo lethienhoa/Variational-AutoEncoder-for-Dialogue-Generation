@@ -881,6 +881,13 @@ It took only 1 or 2 hours of training (on a GTX 1080) for 30 epochs. The result 
     Q: Who are you crazy about ?
     A: I do n't know.
 
+## Get more diverse responses
+
+- Maximum Mutual Information (MMI) Objective Function (https://arxiv.org/pdf/1510.03055v3.pdf)
+- Generating N-best candidate solutions by Beam Search on the decoder output (https://gist.github.com/nikitakit/6ab61a73b86c50ad88d409bac3c3d09f)
+- Sample the answer from the softmax outputs 
+- Variational AutoEncoder (take into account the **global semantic features** that is less captured by LSTM)
+
 ## Reference Articles
 
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues. Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. 2016. http://arxiv.org/abs/1605.06069
