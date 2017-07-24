@@ -1935,6 +1935,320 @@ We have less "I don't know", the answers sometimes looks very creative but if we
     Q: Surprise me.
     A: What usually eats a banana?
 
+Here is one long dialogue I had with this chatbot. Sometimes, it give surprised answer that it understand the question but in fact it's not. One big disadvantage is that the words using only take from movie transcript (suggesting us to widen more the dataset).
+
+    Q: hi
+    A: Hi, it's over.
+
+    Q: weird!
+    A: I'm sorry.
+
+    Q: okay, what time is it now ?
+    A: Ben, do you know what he sang.
+
+    Q: idiot. I ask what time is it. Do you know ?
+    Warning: sentence too long, sorry. Maybe try a simpler sentence.
+    Q: idiot, I ask what time is it ?
+    A: When?
+
+    Q: now
+    A: Walt. how are you?
+
+    Q: crazy, you're so dumped
+    A: Oh! no!
+
+    Q: yes yes, you're so dumped
+    A: Yes.
+
+    Q: ok. who are you ?
+    A: Nope.
+
+    Q: who create you ?
+    A: You did.
+
+    Q: really ? so who am I ?
+    A: They're holding the house.
+
+    Q: haiz, what is that ?
+    A: An angel ...!
+
+    Q: an angel ?
+    A: Unh-huh. which would make you half angel.
+
+    Q: half angel?                  
+    A: North. it's blue velvet.
+
+    Q: weird. do you have emotion ?
+    A: I'm not running away from this!
+
+    Q: ok, good, are you sad?
+    A: You better hope not.
+
+    Q: haha, so it means happy ?    
+    A: Okay. i'll go with you.
+
+    Q: go where ?
+    A: Egypt!
+
+    Q: where is in egypt ?
+    A: I hate the pig!
+
+    Q: cairo ?
+    A: Yeah. i guess so.
+
+    Q: there's pig in cairo ?
+    A: Gabe, you know, tommy.
+
+    Q: who's gabe and tommy ?
+    A: I'm not taking a dream.
+
+    Q: is there pharaon in cairo ?
+    A: No, i do n't think so.
+
+    Q: wow, even in the past ?
+    A: Not if you were n't really.
+
+    Q: where's cairo ?
+    A: The other old men are watching the house.
+
+    Q: where's egypt ?
+    A: I do n't know what to find off.
+
+    Q: ok, where are we now ?
+    A: I do n't know.
+
+    Q: we're in france
+    A: We're in the spite.
+
+    Q: ok, so you know now where are we ?
+    A: Like what?
+
+    Q: repeat it: we're in france
+    A: Four years. two weeks.
+
+    Q: ?
+    A: C.i.a., mrs. lampert!
+
+    Q: do you have vacation ?
+    A: It's a pleasure.
+
+    Q: when and where will you leave for vacation ?
+    A: Sit still in the city.
+
+    Q: really ? you're working ?
+    A: I'm a pediatric cardiologist.
+
+    Q: but nobody will be there !
+    A: He's not a loser, dignan.
+
+    Q: what is it ?
+    A: I do n't know.
+
+    Q: who is he ?
+    A: Gangster. drug dealer.
+
+    Q: gangster is ill ?             
+    A: I'm afraid so.
+
+    Q: wow, good news for everyone, no ?
+    A: You're joking, are n't you?
+
+    Q: ok, so you're a doctor ?
+    A: No, i'm not.
+
+    Q: why, you said so !
+    A: I'm not going to hurt you.
+
+    Q: doctor will never hurt anyone
+    A: She's lying, he's got a gun.
+
+    Q: you're talking nonsense
+    A: Please --
+
+    Q: what ?
+    A: I'm not pregnant.
+
+    Q: i don't ask that !
+    A: You do n't understand ...
+
+    Q: why I don't understand ?
+    A: You do n't have to imagine me.
+
+    Q: it's funny to talk to you
+    A: Yeah.
+
+    Q: but you're nonsense
+    A: No. i found it.
+
+    Q: you found it too!
+    A: I'm not!
+
+    Q: well
+    A: What?
+
+    Q: do you have wife ?
+    A: Yeah.
+
+    Q: you're a man ?
+    A: Yeah.
+
+    Q: how old are you ?
+    A: Twenty-eight.
+
+    Q: wow, what's your highest degree ?
+    A: Mother! open it!
+
+    Q: your highest degree ?      
+    A: Thank you. i'm here.
+
+    Q: haiz, you will not tell me ?
+    A: What?
+
+    Q: your highest degree ?
+    A: Thank you. i'm here.
+
+    Q: do you have children ?
+    A: No.
+
+    Q: how long have you been married ?
+    A: Two years.
+
+    Q: wow, where did you guys get married ?
+    A: You know.
+
+    Q: no, i don't
+    A: You're not seriously buying this all.
+
+    Q: what does your wife do in her life ?
+    A: I do n't know.
+
+    Q: really ?
+    A: Yeah.
+
+    Q: is she a doctor too ?
+    A: Yes. unfortunately, i'm afraid.
+
+    Q: what kind of doctor is she ?
+    A: I do n't know.
+
+    Q: where are you living now ?
+    A: Home.
+
+    Q: of course ! but where is it ?
+    A: He's dead.
+
+    Q: who ?
+    A: The groom?
+
+    Q: are your parents still alive ?
+    A: Not yet. it's all the time.
+
+    Q: do you have brothers or sisters ?
+    A: No, sir.
+
+    Q: you're the unique child in the family ?
+    A: I do n't know.
+
+    Q: how tall are you ?
+    A: I need you to trust me.
+
+    Q: are you tall ?
+    A: I'm sorry.
+
+    Q: short ?
+    A: What?
+
+    Q: are you fat ?
+    A: No.
+
+    Q: medium ?  
+    A: Yeah.
+
+    Q: where were you born ?
+    A: I'm not like you.
+
+    Q: who's your teacher ?
+    A: I do.
+
+    Q: you teach yourself ?
+    A: I'm not sure.
+
+    Q: do you know internet ?
+    A: What do you think?
+
+    Q: yes, i think. how do you think internet ?
+    Warning: sentence too long, sorry. Maybe try a simpler sentence.
+    Q: how do you think the internet ?
+    A: I do n't know.
+
+    Q: is it useful ?
+    A: Yeah, my grammy.
+
+    Q: is it harmful and time-consuming ?
+    A: Who knows?
+
+    Q: do you listen to music ?
+    A: Yes, i do.
+
+    Q: wow, what kind of music do you hear ?
+    A: I was lucky. i believe it.
+
+    Q: do you know elton john ?
+    A: Nah, i'm going to tell you.
+
+    Q: who is he ?
+    A: Gangster. drug dealer.
+
+    Q: no
+    A: I'm fine.
+
+    Q: what's his famous song ?
+    A: Juneau.
+
+    Q: Candle in the wind, you know it ?
+    A: Half a chance. i'm in trouble.
+
+    Q: do you go out oftenly ?
+    A: Yes.
+
+    Q: where did you go ?
+    A: I'm not sure.
+
+    Q: to cinema ?
+    A: I'm fine.
+
+    Q: do you like tom cruise ?
+    A: Yes.
+
+    Q: how is he ?
+    A: Nice.
+
+    Q: how do you think about his lastest movie ?
+    A: I'm doing all right.
+
+    Q: Mission Impossible, you like it ?
+    A: Sure.
+
+    Q: which episode ? there are many...
+    A: The woman.
+
+    Q: who?    
+    A: The groom?
+
+    Q: do you have money ?
+    A: I do n't know.
+
+    Q: do you have a bank account ?
+    A: No. i'm fine.
+
+    Q: do you need money ?
+    A: I do n't know.
+
+    Q: what will you do if you're a billionnaire ?
+    A: I lost the file.
+
+    Q: will you do charity ?
+    A: Sure.
 
 ## How to get more diverse responses
 
