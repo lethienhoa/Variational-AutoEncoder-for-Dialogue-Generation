@@ -928,6 +928,43 @@ More seriously, the result of the model is very bad if it is not trained long en
     Q: Who are you crazy about ?
     A: I do n't know.
 
+when we train longer:
+
+    ----- Epoch 298/300 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 204100 -- Loss 1.25 -- Perplexity 3.50                                                                                                                                                           
+    ----- Step 204200 -- Loss 1.34 -- Perplexity 3.82                                                                                                                                                           
+    ----- Step 204300 -- Loss 1.32 -- Perplexity 3.75                                                                                                                                                           
+    ----- Step 204400 -- Loss 1.26 -- Perplexity 3.54                                                                                                                                                           
+    ----- Step 204500 -- Loss 1.29 -- Perplexity 3.65                                                                                                                                                           
+    ----- Step 204600 -- Loss 1.32 -- Perplexity 3.76                                                                                                                                                           
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:49<00:00,  3.91it/s]
+    Epoch finished in 0:02:49.935574
+
+    ----- Epoch 299/300 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 204700 -- Loss 1.28 -- Perplexity 3.61                                                                                                                                                           
+    ----- Step 204800 -- Loss 1.28 -- Perplexity 3.59                                                                                                                                                           
+    ----- Step 204900 -- Loss 1.24 -- Perplexity 3.46                                                                                                                                                           
+    ----- Step 205000 -- Loss 1.28 -- Perplexity 3.59                                                                                                                                                           
+    ----- Step 205100 -- Loss 1.30 -- Perplexity 3.67                                                                                                                                                           
+    ----- Step 205200 -- Loss 1.30 -- Perplexity 3.68                                                                                                                                                           
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:50<00:00,  3.96it/s]
+    Epoch finished in 0:02:50.427883
+
+    ----- Epoch 300/300 ; (lr=0.002) -----
+    Shuffling the dataset...
+    ----- Step 205300 -- Loss 1.24 -- Perplexity 3.46                                                                                                                                                           
+    ----- Step 205400 -- Loss 1.25 -- Perplexity 3.49                                                                                                                                                           
+    ----- Step 205500 -- Loss 1.20 -- Perplexity 3.34                                                                                                                                                           
+    ----- Step 205600 -- Loss 1.26 -- Perplexity 3.53                                                                                                                                                           
+    ----- Step 205700 -- Loss 1.32 -- Perplexity 3.76                                                                                                                                                           
+    ----- Step 205800 -- Loss 1.23 -- Perplexity 3.43                                                                                                                                                           
+    ----- Step 205900 -- Loss 1.24 -- Perplexity 3.46                                                                                                                                                           
+    Training: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 624/624 [02:49<00:00,  3.92it/s]
+    Epoch finished in 0:02:49.690401
+
+
 ## How to get more diverse responses
 
 - Maximum Mutual Information (MMI) Objective Function (https://arxiv.org/pdf/1510.03055v3.pdf)
