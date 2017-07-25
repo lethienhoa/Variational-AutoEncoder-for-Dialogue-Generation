@@ -1,7 +1,7 @@
 # Variational Auto-Encoder for Dialogue Generation in Tensorflow
 *(under development...)*
 
-## Dataset
+## VHRED model - Dataset
 
 Ubuntu Dialogue Corpus contains almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words. Here is its characteristics:
 
@@ -2264,6 +2264,8 @@ Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Networ
 https://github.com/julianser/hed-dlg-truncated
 
 https://github.com/Conchylicultor/DeepQA
+
+https://github.com/Chung-I/Variational-Recurrent-Autoencoder-Tensorflow
 
 --------------
 MIT License
