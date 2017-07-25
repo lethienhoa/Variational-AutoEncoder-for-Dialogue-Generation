@@ -2256,7 +2256,11 @@ Here is one long dialogue I had with this chatbot. Sometimes, it give surprised 
 
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues. Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio. 2016. http://arxiv.org/abs/1605.06069
 
-Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models. Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, Joelle Pineau. 2016. AAAI. http://arxiv.org/abs/1507.04808.
+A Neural Conversational Model. Oriol Vinyals, Quoc Le. 2015. https://arxiv.org/abs/1506.05869
+
+Generating Sentences from a Continuous Space. Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio. 2015. https://arxiv.org/abs/1511.06349
+
+Neural Variational Inference for Text Processing. Yishu Miao, Lei Yu, Phil Blunsom. ICML 2016. https://arxiv.org/abs/1511.06038
 
 
 ## Reference Source Codes (Theano)
