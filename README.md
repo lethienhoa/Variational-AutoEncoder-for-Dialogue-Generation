@@ -2269,5 +2269,7 @@ https://github.com/Chung-I/Variational-Recurrent-Autoencoder-Tensorflow
 
 https://github.com/carpedm20/variational-text-tensorflow
 
+https://github.com/ysmiao/nvdm
+
 --------------
 MIT License
