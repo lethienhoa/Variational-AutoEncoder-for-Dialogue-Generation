@@ -1,7 +1,7 @@
 # Variational Auto-Encoder for Dialogue Generation in Tensorflow
 *(under development...)*
 
-## VHRED model - Dataset
+## 1. VHRED model and Dataset
 
 Ubuntu Dialogue Corpus contains almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words. Here is its characteristics:
 
@@ -298,7 +298,7 @@ After 1 day
 
     .. 91:33:04 39146 mb # 261060 bs 80 maxl 81 acc_cost = 3.9547 acc_word_perplexity = 52.1785 cur_cost = 3.9645 cur_word_perplexity = 52.6949 acc_mean_word_error = 0.0000 acc_mean_kl_divergence_cost = 43.03374214 acc_mean_posterior_variance = 0.00050226
 
-# Neural chatbot
+# 2. Neural Seq2seq chatbot
 
 The model in the paper *A Neural Conversational Model* show consecutive question-response pairs on the fly, which is more similar to a dialogue conversation as we see:
 
@@ -2251,6 +2251,10 @@ Here is one long dialogue I had with this chatbot. Sometimes, it give surprised 
 - Generating N-best candidate solutions by Beam Search on the decoder output (https://gist.github.com/nikitakit/6ab61a73b86c50ad88d409bac3c3d09f)
 - Sample the answer from the softmax outputs 
 - Variational AutoEncoder (take into account the **global semantic features** that is less captured by LSTM)
+
+# 3. Neural Variational Document Model (NVDM)
+
+
 
 ## Reference Articles
 
