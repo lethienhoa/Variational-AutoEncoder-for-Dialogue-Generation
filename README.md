@@ -2267,5 +2267,7 @@ https://github.com/Conchylicultor/DeepQA
 
 https://github.com/Chung-I/Variational-Recurrent-Autoencoder-Tensorflow
 
+https://github.com/carpedm20/variational-text-tensorflow
+
 --------------
 MIT License
