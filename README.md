@@ -2319,6 +2319,52 @@ Results on 20news dataset:
       | Epoch train: 3 | updating encoder 8 | Corpus ppx: 1057.21811 | Per doc ppx: 1328.51972 | KLD: 16.652
       | Epoch train: 3 | updating encoder 9 | Corpus ppx: 1057.87805 | Per doc ppx: 1328.47892 | KLD: 16.617
       | Epoch dev: 3 | | Perplexity: 1053.857403502 | Per doc ppx: 1183.02565 | KLD: 20.32
+      .
+      .
+      .
+      | Epoch dev: 998 | | Perplexity: 755.714505596 | Per doc ppx: 787.61053 | KLD: 29.518
+      | Epoch train: 999 | updating decoder 0 | Corpus ppx: 573.21899 | Per doc ppx: 646.03299 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 1 | Corpus ppx: 573.54144 | Per doc ppx: 647.11183 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 2 | Corpus ppx: 573.35584 | Per doc ppx: 645.84722 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 3 | Corpus ppx: 573.50675 | Per doc ppx: 647.89037 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 4 | Corpus ppx: 573.24515 | Per doc ppx: 645.09468 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 5 | Corpus ppx: 573.80815 | Per doc ppx: 647.29795 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 6 | Corpus ppx: 573.37318 | Per doc ppx: 646.05069 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 7 | Corpus ppx: 572.92690 | Per doc ppx: 645.68507 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 8 | Corpus ppx: 572.89957 | Per doc ppx: 646.38012 | KLD: 28.981
+      | Epoch train: 999 | updating decoder 9 | Corpus ppx: 573.66650 | Per doc ppx: 647.37047 | KLD: 28.981
+      | Epoch train: 999 | updating encoder 0 | Corpus ppx: 572.96381 | Per doc ppx: 647.10328 | KLD: 28.833
+      | Epoch train: 999 | updating encoder 1 | Corpus ppx: 573.45839 | Per doc ppx: 647.09443 | KLD: 28.89
+      | Epoch train: 999 | updating encoder 2 | Corpus ppx: 573.37281 | Per doc ppx: 648.54090 | KLD: 28.861
+      | Epoch train: 999 | updating encoder 3 | Corpus ppx: 573.25746 | Per doc ppx: 645.33896 | KLD: 28.879
+      | Epoch train: 999 | updating encoder 4 | Corpus ppx: 573.56699 | Per doc ppx: 648.56346 | KLD: 28.912
+      | Epoch train: 999 | updating encoder 5 | Corpus ppx: 573.21902 | Per doc ppx: 645.87293 | KLD: 28.867
+      | Epoch train: 999 | updating encoder 6 | Corpus ppx: 573.36898 | Per doc ppx: 647.32002 | KLD: 28.867
+      | Epoch train: 999 | updating encoder 7 | Corpus ppx: 573.05866 | Per doc ppx: 644.85861 | KLD: 28.851
+      | Epoch train: 999 | updating encoder 8 | Corpus ppx: 573.52699 | Per doc ppx: 646.42458 | KLD: 28.889
+      | Epoch train: 999 | updating encoder 9 | Corpus ppx: 572.51718 | Per doc ppx: 644.86442 | KLD: 28.817
+      | Epoch dev: 999 | | Perplexity: 754.930637761 | Per doc ppx: 796.71977 | KLD: 29.385
+      | Epoch train: 1000 | updating decoder 0 | Corpus ppx: 573.30311 | Per doc ppx: 646.98425 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 1 | Corpus ppx: 573.19795 | Per doc ppx: 647.42603 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 2 | Corpus ppx: 573.40016 | Per doc ppx: 646.82160 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 3 | Corpus ppx: 574.04516 | Per doc ppx: 647.83201 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 4 | Corpus ppx: 573.11097 | Per doc ppx: 646.59349 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 5 | Corpus ppx: 573.34797 | Per doc ppx: 645.42543 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 6 | Corpus ppx: 573.32453 | Per doc ppx: 647.01933 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 7 | Corpus ppx: 573.34490 | Per doc ppx: 646.54779 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 8 | Corpus ppx: 573.08388 | Per doc ppx: 646.35959 | KLD: 28.936
+      | Epoch train: 1000 | updating decoder 9 | Corpus ppx: 572.97347 | Per doc ppx: 645.95048 | KLD: 28.936
+      | Epoch train: 1000 | updating encoder 0 | Corpus ppx: 572.98901 | Per doc ppx: 645.96099 | KLD: 28.857
+      | Epoch train: 1000 | updating encoder 1 | Corpus ppx: 573.00972 | Per doc ppx: 647.70571 | KLD: 28.859
+      | Epoch train: 1000 | updating encoder 2 | Corpus ppx: 573.29592 | Per doc ppx: 646.83381 | KLD: 28.889
+      | Epoch train: 1000 | updating encoder 3 | Corpus ppx: 573.68088 | Per doc ppx: 646.83285 | KLD: 28.909
+      | Epoch train: 1000 | updating encoder 4 | Corpus ppx: 572.85795 | Per doc ppx: 644.67089 | KLD: 28.877
+      | Epoch train: 1000 | updating encoder 5 | Corpus ppx: 573.24394 | Per doc ppx: 645.52583 | KLD: 28.874
+      | Epoch train: 1000 | updating encoder 6 | Corpus ppx: 573.65165 | Per doc ppx: 648.19769 | KLD: 28.894
+      | Epoch train: 1000 | updating encoder 7 | Corpus ppx: 573.60253 | Per doc ppx: 648.85935 | KLD: 28.921
+      | Epoch train: 1000 | updating encoder 8 | Corpus ppx: 573.29855 | Per doc ppx: 647.41270 | KLD: 28.891
+      | Epoch train: 1000 | updating encoder 9 | Corpus ppx: 573.18466 | Per doc ppx: 645.60258 | KLD: 28.889
+      | Epoch dev: 1000 | | Perplexity: 752.799503283 | Per doc ppx: 771.43283 | KLD: 29.43
 
 
 ## Reference Articles
