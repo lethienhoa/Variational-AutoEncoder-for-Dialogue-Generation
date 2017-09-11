@@ -1,5 +1,4 @@
-# Variational Auto-Encoder for Dialogue Generation in Tensorflow
-*(under development...)*
+# Variational Auto-Encoder for Dialogue Generation
 
 ## 1. VHRED model and Dataset
 
